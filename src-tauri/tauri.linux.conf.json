@@ -8,6 +8,6 @@
         "depends": ["curl", "wget"]
       }
     },
-    "targets": ["deb", "appimage"]
+    "targets": ["deb"]
   }
 }
