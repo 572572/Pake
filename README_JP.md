@@ -282,12 +282,21 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/572572">
+                    <img src="https://avatars.githubusercontent.com/u/83437696?v=4" width="90;" alt="572572"/>
+                    <br />
+                    <sub><b>572572</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/GoodbyeNJN">
                     <img src="https://avatars.githubusercontent.com/u/6856639?v=4" width="90;" alt="GoodbyeNJN"/>
                     <br />
                     <sub><b>GoodbyeNJN</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/eltociear">
                     <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
@@ -295,8 +304,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Ikko Eltociear Ashimine</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/kittizz">
                     <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
@@ -339,6 +346,8 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yi Xin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/g1eny0ung">
                     <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
@@ -346,8 +355,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
@@ -367,13 +374,6 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                     <img src="https://avatars.githubusercontent.com/u/19513289?v=4" width="90;" alt="2nthony"/>
                     <br />
                     <sub><b>2nthony</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/572572">
-                    <img src="https://avatars.githubusercontent.com/u/83437696?v=4" width="90;" alt="572572"/>
-                    <br />
-                    <sub><b>572572</b></sub>
                 </a>
             </td>
             <td align="center">
